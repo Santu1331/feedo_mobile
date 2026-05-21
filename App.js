@@ -109,7 +109,8 @@ async function registerForPushNotifications() {
   }
 
   try {
-    const token = (await Notifications.getExpoPushTokenAsync({ projectId })).data;
+    // This asks Expo to just give you the raw Firebase (FCM) token!
+const token = (await Notifications.getDevicePushTokenAsync()).data;
     console.log('✅ Push token:', token);
     return token;
   } catch (error) {
