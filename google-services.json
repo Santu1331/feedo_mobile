@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "203132079474",
+    "firebase_url": "https://feedozone-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "feedozone",
+    "storage_bucket": "feedozone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203132079474:android:d8194db4e894b6f7fea1eb",
+        "android_client_info": {
+          "package_name": "com.example.feedozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203132079474-p8pl2mccv3q7avo4ednbdsivckv22di8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvYablpVj8QBC8TtEFex2mIEfJzH955o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203132079474-p8pl2mccv3q7avo4ednbdsivckv22di8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203132079474-pk923m2ggb6gv19c3ef494lcqmn6dkhf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feedozone.app2024"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203132079474:android:386d765fe3321c04fea1eb",
+        "android_client_info": {
+          "package_name": "com.feedozone.app2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203132079474-krn2vr2fg9p3adf69stts826n6thkurr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feedozone.app2024",
+            "certificate_hash": "6003a309299a3b951e52c7df4af0693930b83008"
+          }
+        },
+        {
+          "client_id": "203132079474-p8pl2mccv3q7avo4ednbdsivckv22di8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTvYablpVj8QBC8TtEFex2mIEfJzH955o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203132079474-p8pl2mccv3q7avo4ednbdsivckv22di8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "203132079474-pk923m2ggb6gv19c3ef494lcqmn6dkhf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.feedozone.app2024"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
